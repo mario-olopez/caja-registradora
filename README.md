@@ -35,8 +35,8 @@ En este proyecto simularemos el funcionamiento de una caja registradora. En él 
 
 ## Cómo usarlo
 
-1. Clona este repositorio o descarga el código.
-2. Abre `index.html` en tu navegador.
+1. Clona este repositorio o descarga el código
+2. Puedes acceder a la caja registradora a través de este enlace: https://mario-olopez.github.io/caja-registradora/
 3. Selecciona una cerveza.
 4. Introduce cuántos billetes o monedas usará el cliente.
 5. Recibe el cambio o el mensaje correspondiente.
