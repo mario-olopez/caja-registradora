@@ -1,12 +1,12 @@
 document.addEventListener("DOMContentLoaded", () => {
     const beerPhotos = [
-        "/media/mahou_reserva_xl.png",
-        "/media/guinness-draught.png",
-        "/media/LA-CHOUFFE-40Y-33cl-bottle.png",
-        "/media/alhambra-1925.webp",
-        "/media/alhambra-roja.png",
-        "/media/mahou_clasica_xl_2024.png",
-        "/media/cruzcampo.png"
+        "media/mahou_reserva_xl.png",
+        "media/guinness-draught.png",
+        "media/LA-CHOUFFE-40Y-33cl-bottle.png",
+        "media/alhambra-1925.webp",
+        "media/alhambra-roja.png",
+        "media/mahou_clasica_xl_2024.png",
+        "media/cruzcampo.png"
     ];
 
     let productos = [
