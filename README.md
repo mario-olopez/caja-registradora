@@ -24,6 +24,8 @@ En este proyecto simularemos el funcionamiento de una caja registradora. En él 
 ## Funcionalidades
 
 - Mostrar catálogo de cervezas con nombre, imagen y precio.
+![Catálogo de cervezas](./media/catalogo-cervezas.png)
+
 - Solicitar pago al usuario mediante prompts (billetes y monedas).
 - Calcular si el pago es suficiente y devolver cambio óptimo (con billetes/monedas de mayor valor primero).
 - Mensajes dinámicos en pantalla para:
